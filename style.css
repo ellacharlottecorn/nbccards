@@ -1,7 +1,6 @@
 .cards {
     display: flex;
-    /* overflow-x: scroll; */
-    flex-wrap: wrap;
+    overflow-x: scroll;
 }
 
 .card-background {
